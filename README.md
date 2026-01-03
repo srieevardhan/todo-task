@@ -26,7 +26,8 @@ A modern and responsive task management web application to organize daily tasks 
 
 <p align="center">
   <a href="https://todotask-weld-three.vercel.app/" target="_blank">
-    <img src="<img width="631" height="480" alt="Screenshot 2026-01-03 221536" src="https://github.com/user-attachments/assets/f8a53301-dbc4-404b-b961-32a451ec2ce6" />
+    <img src="<img width="631" height="480" alt="scree1 png" src="https://github.com/user-attachments/assets/d3d05882-222c-4733-b572-f66a1927a8d4" />
+ />
 " width="300" height="300"/>
   </a>
   <a href="https://todotask-weld-three.vercel.app/" target="_blank">
