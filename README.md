@@ -32,6 +32,10 @@ A modern and responsive task management web application to organize daily tasks 
 
 <img width="350" height="350" alt="screen5 png" src="https://github.com/user-attachments/assets/7688c0d6-6bb3-4615-9420-d17c83e05435" />
 
+##Demo video
+
+
+
 
 
 
